@@ -1,0 +1,8 @@
+{
+  "name": "DiscrodBot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "dotenv": "^8.2.0"
+  }
+}

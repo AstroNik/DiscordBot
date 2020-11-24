@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41a04049-247d-4e69-a88b-3d8d794fed86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,21 +53,23 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Added .gitignore" />
+    <MESSAGE value="Now reading token from env variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now reading token from env variable" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1335" y="89" key="CommitChangelistDialog2" timestamp="1606238856604">
+    <state x="-1335" y="89" key="CommitChangelistDialog2" timestamp="1606240638766">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="-1335" y="89" key="CommitChangelistDialog2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606238856604" />
+    <state x="-1335" y="89" key="CommitChangelistDialog2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606240638766" />
     <state x="-1180" y="262" key="FileChooserDialogImpl" timestamp="1606238692352">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
     <state x="-1180" y="262" key="FileChooserDialogImpl/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606238692352" />
-    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606238860556">
+    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606240643758">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606238860556" />
+    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606240643758" />
     <state x="-1159" y="427" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606238759081">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>

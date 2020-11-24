@@ -7,8 +7,15 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-    if (msg.content === 'ping') {
-        msg.reply('pong');
+    if (msg.content === '!stock help') {
+        msg.reply('!stock find - Find current price of a stock\n' +
+            '!stock alert - Get Alerts about a stock');
+    }
+    if (msg.content === '!stock find') {
+        msg.reply('Figure out how to add stock name');
+    }
+    if (msg.content === '!stock alert') {
+        msg.reply('Figure out how to add alerts & connect to api');
     }
 });
 

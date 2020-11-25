@@ -55,21 +55,22 @@
     <MESSAGE value="Init" />
     <MESSAGE value="Added .gitignore" />
     <MESSAGE value="Now reading token from env variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now reading token from env variable" />
+    <MESSAGE value="Creating different options for the bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating different options for the bot" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1335" y="89" key="CommitChangelistDialog2" timestamp="1606240638766">
+    <state x="-1335" y="89" key="CommitChangelistDialog2" timestamp="1606258190673">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="-1335" y="89" key="CommitChangelistDialog2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606240638766" />
+    <state x="-1335" y="89" key="CommitChangelistDialog2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606258190673" />
     <state x="-1180" y="262" key="FileChooserDialogImpl" timestamp="1606238692352">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
     <state x="-1180" y="262" key="FileChooserDialogImpl/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606238692352" />
-    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606240643758">
+    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2" timestamp="1606258194389">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606240643758" />
+    <state x="-1368" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606258194389" />
     <state x="-1159" y="427" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606238759081">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>

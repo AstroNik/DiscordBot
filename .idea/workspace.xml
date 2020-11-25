@@ -4,6 +4,9 @@
     <list default="true" id="41a04049-247d-4e69-a88b-3d8d794fed86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bot.js" beforeDir="false" afterPath="$PROJECT_DIR$/bot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-fetch/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-fetch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +59,14 @@
     <MESSAGE value="Added .gitignore" />
     <MESSAGE value="Now reading token from env variable" />
     <MESSAGE value="Creating different options for the bot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating different options for the bot" />
+    <MESSAGE value="Changed response display. Need to implement data calls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed response display. Need to implement data calls" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1335" y="89" key="CommitChangelistDialog2" timestamp="1606258190673">
+    <state x="-1705" y="72" width="1415" height="863" key="CommitChangelistDialog2" timestamp="1606268843889">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>
-    <state x="-1335" y="89" key="CommitChangelistDialog2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606258190673" />
+    <state x="-1705" y="72" width="1415" height="863" key="CommitChangelistDialog2/0.0.1536.824/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1606268843889" />
     <state x="-1180" y="262" key="FileChooserDialogImpl" timestamp="1606238692352">
       <screen x="-1920" y="1" width="1920" height="1040" />
     </state>

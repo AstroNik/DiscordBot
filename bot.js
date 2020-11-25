@@ -60,7 +60,7 @@ client.on('message', msg => {
                     msg.channel.send({
                         embed: {
                             color: 3447003,
-                            title: ticker.toUpperCase(),
+                            title: ticker.toUpperCase() + " (USD)",
                             description: time,
                             fields: [
                                 {
